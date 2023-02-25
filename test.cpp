@@ -4,6 +4,6 @@ int i;
 cin >> i;
 while(i != 42){
 cout << i;
-cin >> i;
+cin >> ijk;
 }
 return(0);
